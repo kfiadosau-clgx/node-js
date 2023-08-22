@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+# prod
+dist
+# testing
+/coverage
+test.pdf
+
+.DS_Store
+
+artifacts
+
+tmp
